@@ -1,6 +1,6 @@
 # Python para análisis estadístico
 
-Este repositorio contiene notebooks de Python para una sesión introductoria de análisis estadístico aplicado a biología.
+Este repositorio contiene notebooks de Python para una sesión introductoria de análisis estadístico usando python.
 
 ## Contenido
 
